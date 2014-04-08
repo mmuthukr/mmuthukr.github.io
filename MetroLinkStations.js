@@ -1,4 +1,4 @@
-{"name":"SDEDBO.Metrolink_Stations","type":"FeatureCollection"
+var MLStations = {"name":"SDEDBO.Metrolink_Stations","type":"FeatureCollection"
 ,"features":[
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-90.3203784621213,38.5932950327621]},"properties":null}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.3303032490721,38.6077628904745]},"properties":null}
